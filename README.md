@@ -1,7 +1,7 @@
 # loadingstuff
 
 
-### A fully customizable library for loading bars, spinners, and animations
+### A fully customizable library for loading bars, spinners, and animations (a.k.a I like loading bars so i made some for fun)
 
 
 #### install
